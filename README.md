@@ -1,5 +1,26 @@
 # E-Commerce-Website
 
+◦ A user-friendly website that allows authenticated users to purchase and add products to the website.<br/>
+◦ The back-end was built on Django web framework and the front-end is mainly based on HTML,CSS and javascript.
+
+## Preview
+<h4> Home Page </h4>
+<img src="screenshots/home_page.png" >
+
+<h4> Login Page </h4>
+<img src="screenshots/login.png" >
+
+<h4> Signup Page </h4>
+<img src="screenshots/register.png" >
+
+<h4> Products Page </h4>
+<img src="screenshots/products.png" >
+
+<h4> Cart Page </h4>
+<img src="screenshots/cart.png" >
+
+<h4> Checkout Page </h4>
+<img src="screenshots/checkout.png" >
 
 # Usage
 
@@ -7,6 +28,8 @@ First clone the repository from Github.
 Activate the virtualenv (if any) for your project.
     
 Install project dependencies:
+
+
     $ python -m pip install --upgrade pip
     $ pip install -r requirements.txt
     
