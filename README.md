@@ -7,7 +7,7 @@ First clone the repository from Github.
 Activate the virtualenv (if any) for your project.
     
 Install project dependencies:
-
+    $ python -m pip install --upgrade pip
     $ pip install -r requirements.txt
     
     
